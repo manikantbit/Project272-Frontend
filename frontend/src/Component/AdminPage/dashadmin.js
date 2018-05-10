@@ -25,7 +25,7 @@ class Dashadmin extends Component {
   type : 'bar'
 };*/
 
-fetch('http://52.53.126.123:5000/dash', {
+fetch('http://52.53.238.103:5000/dash', {
       method: 'GET',
       mode: 'cors',
       dataType: 'json',
